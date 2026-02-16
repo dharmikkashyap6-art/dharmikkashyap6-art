@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # 💫 About Me:
 🛠 I’m currently working on full-stack (MERN) projects and improving my DSA skills  <br>🤝 I’m looking to collaborate on web development projects and hackathons  <br>🫶 I’m looking for help with advanced backend architecture and system design  <br>🌱 I’m currently learning MongoDB, Node.js, and Data Structures  <br>💬 Ask me about gaming strategy, chess, gym discipline, and eSports leadership  <br>⚡ Fun fact: I led my college eSports team as IGL and won MVP 🏆<br>
